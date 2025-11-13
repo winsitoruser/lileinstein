@@ -2,8 +2,10 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Base Chain](https://img.shields.io/badge/Base-Chain-blue)](https://base.org)
-[![Tests](https://img.shields.io/badge/Tests-24%20Passing-brightgreen)]()
+[![Tests](https://img.shields.io/badge/Tests-44%20Passing-brightgreen)]()
 [![GitHub](https://img.shields.io/badge/GitHub-lileinstein-black?logo=github)](https://github.com/winsitoruser/lileinstein)
+
+> 📖 **[English Version](README_EN.md)** | Bahasa Indonesia (This file)
 
 A complete meme token implementation on Base Chain L2 with smart contracts, testing suite, and modern web interface.
 
