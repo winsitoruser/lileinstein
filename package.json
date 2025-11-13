@@ -1,0 +1,29 @@
+{
+  "name": "little-einstein-token",
+  "version": "1.0.0",
+  "description": "LITTLE EINSTEIN (LEINSTEIN) - Meme Token on Base Chain L2",
+  "main": "index.js",
+  "scripts": {
+    "compile": "hardhat compile",
+    "test": "hardhat test",
+    "deploy:local": "hardhat run scripts/deploy.js --network localhost",
+    "deploy:base-sepolia": "hardhat run scripts/deploy.js --network baseSepolia",
+    "deploy:base": "hardhat run scripts/deploy.js --network base",
+    "setup-vesting:sepolia": "hardhat run scripts/setup-vesting.js --network baseSepolia",
+    "setup-vesting:mainnet": "hardhat run scripts/setup-vesting.js --network base",
+    "verify": "hardhat verify --network baseSepolia",
+    "dev": "cd frontend && npm run dev"
+  },
+  "keywords": ["blockchain", "base", "l2", "token", "erc20"],
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {
+    "@nomicfoundation/hardhat-toolbox": "^4.0.0",
+    "@nomicfoundation/hardhat-verify": "^2.0.0",
+    "hardhat": "^2.19.0"
+  },
+  "dependencies": {
+    "@openzeppelin/contracts": "^5.0.0",
+    "dotenv": "^16.3.1"
+  }
+}
