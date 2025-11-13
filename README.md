@@ -17,6 +17,7 @@ A complete meme token implementation on Base Chain L2 with smart contracts, test
 
 - **ERC20 Token** - Full-featured token with minting, burning, and batch transfers
 - **Token Vesting** - TGE 10% + Monthly 10% release schedule (customizable)
+- **Staking Rewards** - Multi-tier staking pools with up to 100% APR
 - **Modern Frontend** - Next.js 14 with TailwindCSS and RainbowKit
 - **Base Chain L2** - Deployed on Base (Ethereum L2)
 - **Testing Suite** - Comprehensive test coverage with Hardhat
@@ -27,6 +28,12 @@ A complete meme token implementation on Base Chain L2 with smart contracts, test
 - **Monthly**: 10% release every 30 days
 - **Duration**: 9 months (270 days)
 - **Total**: 100% vested in 10 periods
+
+### 🎯 Staking Pools
+- **Flexible**: 12% APR, no lock, min 1K tokens
+- **30-Day Lock**: 25% APR, 30-day lock, min 5K tokens
+- **90-Day Lock**: 50% APR, 90-day lock, min 10K tokens
+- **180-Day Lock**: 100% APR, 180-day lock, min 25K tokens
 
 ## 📋 Prerequisites
 
