@@ -1,21 +1,21 @@
-# 💰 LITTLE EINSTEIN (LEINSTEIN) - Tokenomics
+# 💰 LITTLE EINSTEIN ($LILEIN) - Tokenomics
 
-Complete tokenomics dan economic model untuk LEINSTEIN meme token.
+Complete tokenomics dan economic model untuk $LILEIN meme token on BASE L2.
 
 ## 📊 Token Basics
 
 | Parameter | Value |
 |-----------|-------|
-| **Name** | LITTLE EINSTEIN |
-| **Symbol** | LEINSTEIN |
-| **Total Supply** | 250,000,000,000 (250 Billion) |
-| **Decimals** | 8 |
-| **Blockchain** | Base Chain L2 |
+| **Name** | Little Einstein |
+| **Symbol** | LILEIN |
+| **Total Supply** | 100,000,000,000 (100 Billion) |
+| **Decimals** | 18 |
+| **Blockchain** | BASE L2 |
 | **Standard** | ERC20 |
 
 ---
 
-## 🎯 Token Allocation (250B Total)
+## 🎯 Token Allocation (100B Total)
 
 ### Recommended Distribution
 
@@ -23,30 +23,29 @@ Complete tokenomics dan economic model untuk LEINSTEIN meme token.
 ┌──────────────────┬────────────┬────────┬──────────────┐
 │ Category         │ Amount     │ %      │ Vesting      │
 ├──────────────────┼────────────┼────────┼──────────────┤
-│ 🌊 Liquidity     │ 75B        │ 30%    │ No vesting   │
-│ 🌍 Public Sale   │ 75B        │ 30%    │ No vesting   │
-│ 🎯 Staking Pool  │ 50B        │ 20%    │ Released     │
-│ 👥 Team/Advisors │ 25B        │ 10%    │ TGE+9 months │
-│ 💼 Investors     │ 15B        │ 6%     │ TGE+9 months │
-│ 📢 Marketing     │ 7.5B       │ 3%     │ Released     │
-│ 💎 Reserve       │ 2.5B       │ 1%     │ TGE+9 months │
+│ 🚀 Presale       │ 40B        │ 40%    │ No vesting   │
+│ 🌊 Liquidity     │ 25B        │ 25%    │ Locked 1yr   │
+│ 📢 Marketing     │ 15B        │ 15%    │ Released     │
+│ 👥 Team/Advisors │ 10B        │ 10%    │ 12mo vesting │
+│ 🔧 Development   │ 5B         │ 5%     │ Released     │
+│ 🎁 Community     │ 5B         │ 5%     │ Rewards      │
 ├──────────────────┼────────────┼────────┼──────────────┤
-│ **TOTAL**        │ **250B**   │ **100%**│            │
+│ **TOTAL**        │ **100B**   │ **100%**│            │
 └──────────────────┴────────────┴────────┴──────────────┘
 ```
 
 ---
 
-## 💧 Liquidity Pool (75B - 30%)
+## 💧 Liquidity Pool (25B - 25%)
 
 **Purpose**: Trading liquidity on DEXs
 
-- 🔒 **Lock**: Recommended 6-12 months
-- 🏦 **DEXs**: Uniswap, Aerodrome (Base native)
-- 💱 **Pairs**: LEINSTEIN/ETH, LEINSTEIN/USDC
+- 🔒 **Lock**: 12 months
+- 🏦 **DEXs**: Uniswap V3, Aerodrome (BASE native)
+- 💱 **Pairs**: LILEIN/ETH, LILEIN/USDC
 - 📊 **Distribution**:
-  - 50B → ETH pair
-  - 25B → USDC pair
+  - 15B → ETH pair
+  - 10B → USDC pair
 
 **Strategy:**
 - Initial LP: 30B (40%)
